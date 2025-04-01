@@ -1,16 +1,81 @@
-## Hi there 👋
+# 📚 BookSage
 
-<!--
-**BookSage/BookSage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+<img src="https://via.placeholder.com/800x200/222222/b5e25a?text=BookSage" alt="BookSage Banner" width="800"/>
 
-Here are some ideas to get you started:
+BookSage is a comprehensive platform that provides personalized book recommendations based on users' preferred genres, popular content, and highly rated titles by fellow readers. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Discover your next favorite book with our intelligent recommendation system!
+
+![Python](https://img.shields.io/badge/Python-3.9+-b5e25a)
+![Flask](https://img.shields.io/badge/Flask-2.0+-222222)
+![Status](https://img.shields.io/badge/Status-In%20Development-b5e25a)
+
+</div>
+
+## ✨ Features
+
+### Current Features
+- **🔮 Personalized Recommendations** 
+  - Home page with tailored suggestions based on user preferences
+  - Smart algorithm that learns from your reading habits
+
+- **📖 Book Search & Details** 
+  - Search for books by title, author, or genre
+  - Detailed book pages with comprehensive information
+  - View book details including synopsis, author info, and community ratings
+
+- **👤 User Accounts** 
+  - Secure user registration and authentication
+  - Personalized user profiles with reading history
+  - Email verification for account security
+
+- **⭐ Ratings & Reviews** 
+  - Rate books on a five-star scale
+  - Write and share detailed reviews
+  - Discover highly-rated books from the community
+
+### Coming Soon
+- **📊 Trending Content** - Discover the most liked books within the community
+- **💬 Social Features** - Follow other readers and share recommendations
+- **📱 Mobile Application** - Access BookSage on the go with our mobile app
+- **✉️ Email Notifications** - Stay updated with personalized book recommendations
+
+## 🛠️ Technologies Used
+
+### Frontend
+- HTML5, CSS3 with Tailwind CSS
+- JavaScript
+- Jinja2 Templates
+
+### Backend
+- Python
+- Flask Web Framework
+- SQLite Database
+- Werkzeug Security for Authentication
+
+### Deployment
+- GitHub Actions CI/CD Pipeline
+- Hosting (TBD)
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.9 or higher
+- Pip package manager
+
+### Download
+
+<a href="https://github.com/carterj7383/booksage_/releases/latest/download/booksage-app.zip">
+  <img src="https://img.shields.io/badge/Download-Latest%20Release-b5e25a?style=for-the-badge&logo=github&logoColor=white&labelColor=222222" alt="Download Latest Release">
+</a>
+
+## 📋 Usage
+
+1. Visit the BookSage website
+2. Create an account or log in with your credentials
+3. Select your preferred genres to personalize your experience
+4. Browse and discover personalized book recommendations
+5. Rate books and write reviews to improve future recommendations
+6. Click on a book to view details and community feedback
